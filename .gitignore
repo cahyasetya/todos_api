@@ -118,6 +118,4 @@ build-iPhoneSimulator/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-/bin
 # End of https://www.gitignore.io/api/ruby,rails,visualstudiocode
